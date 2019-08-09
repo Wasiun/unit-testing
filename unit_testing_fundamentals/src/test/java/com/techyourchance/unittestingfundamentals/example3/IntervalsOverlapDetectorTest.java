@@ -1,7 +1,5 @@
 package com.techyourchance.unittestingfundamentals.example3;
 
-import org.hamcrest.CoreMatchers;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
