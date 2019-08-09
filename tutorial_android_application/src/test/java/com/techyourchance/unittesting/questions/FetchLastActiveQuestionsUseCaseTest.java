@@ -24,7 +24,7 @@ import static org.mockito.Mockito.verify;
 
 @RunWith(MockitoJUnitRunner.class)
 public class FetchLastActiveQuestionsUseCaseTest {
-
+//
     // region constants ----------------------------------------------------------------------------
     private static final List<Question> QUESTIONS = QuestionsTestData.getQuestions();
     // endregion constants -------------------------------------------------------------------------
